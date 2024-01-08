@@ -1,0 +1,16 @@
+Los datos son:
+Nombre: Lucas
+Apellido: Dalto
+----------
+Nombre: Tomas
+Apellido: Gimenes
+----------
+Nombre: Daniel
+Apellido: Ramirez
+----------
+Nombre: Camila
+Apellido: Peralta
+----------
+Nombre: Roberto
+Apellido: Chano
+----------

@@ -1,0 +1,26 @@
+* {
+    color: chocolate;
+}
+
+h3{
+    color: red;
+}
+
+.parrafo {
+    color: cadetblue;
+}
+
+#elemento {
+    color: blueviolet;
+}
+[rancio="xd"] {
+    color: brown;
+}
+
+h2 b {
+    color: chartreuse;
+}
+
+a:hover {
+    color: darkgreen;
+}
